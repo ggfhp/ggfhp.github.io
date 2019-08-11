@@ -1,160 +1,259 @@
 <!DOCTYPE html>
-<html lang='en'><head>
-  <title>HOME - 傅皮蛋的窝</title>
-  <link rel='canonical' href='https://ggfhp.github.io/' />
-  <meta charset='utf-8'>
-  <meta name='viewport' content='width=device-width, initial-scale=1' />
-  <meta name='description' content='Welcome to this sample project' />
-  <meta name='theme-color' content='#FD3519' />
-  
-    <link rel="shortcut icon" href="/icon/pika.ico" type="image/x-icon" />
-    <link rel="icon" href="/icon/pika.ico" type="image/x-icon" />
-  
+<html>
+<head>
+    <meta name="generator" content="Hugo 0.56.3" />
 
-  <meta name="generator" content="Hugo 0.56.3" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="My thoughts and rambles">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  
+    
+    <link rel="icon" type="image/png" href="http://your.base.url//images/favicon.ico">
 
+    
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="http://your.base.url/images/touch/chrome-touch-icon-192x192.png">
 
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Material Design Lite">
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
 
+    
+    <meta name="msapplication-TileImage" content="http://your.base.url/images/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#3372DF">
 
-
-<link rel="stylesheet" href="https://ggfhp.github.io/sass/style.min.8a1658d134a4b54730b66789206b2cf14c1b006a6de3f3fde6302f925b6e01f5.css" integrity="sha256-ihZY0TSktUcwtmeJIGss8UwbAGpt4/P95jAvkltuAfU=" media="screen">
-<link rel="stylesheet" href="https://ggfhp.github.io/syntax.min.css" integrity="" media="screen">
-
-  <meta property="og:title" content="HOME" />
-<meta property="og:description" content="Welcome to this sample project" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://ggfhp.github.io/" />
-
-<meta property="og:image" content="https://ggfhp.github.io/images/sample.jpg" />
-
-<meta property="og:updated_time" content="2019-05-03T09:37:55+02:00" />
-
-  <meta itemprop="name" content="HOME">
-<meta itemprop="description" content="Welcome to this sample project">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en"/>
+    <link rel="stylesheet" href="http://your.base.url/css/ionicons.min.css"/>
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.1.3/material.grey-orange.min.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="http://your.base.url/css/hmdl-style.css"/>
 
 
+
+    <title>My HugoMDL Site</title>
 </head>
-<body>
 
-  <header style="background-image:linear-gradient(
-      rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-    ),url(&#39;https://ggfhp.github.io/images/highway.jpg&#39;)">
+<body style="background-image: url('/images/background.jpg');">
+    <div class="hmdl-body mdl-layout mdl-js-layout has-drawer is-upgraded">        
+        <header class="mdl-layout__header mdl-layout__header--transparent mdl-layout__header--scroll">
+            <div class="mdl-layout__header-row">
+                <div class="mdl-layout-spacer"></div>
+                <nav class="mdl-navigation">
+                <a class="mdl-navigation__link mdl-color-text--accent" href="/">Home</a>
+                <a class="mdl-navigation__link" href="/post/">Articles</a>
+                <a class="mdl-navigation__link" href="/project/">Projects</a>
+                <a class="mdl-navigation__link" href="/about/">About</a>
+                </nav>
+            </div>
+        </header>
+        <div class="mdl-layout__drawer">
+            <nav class="mdl-navigation">
+            <a class="mdl-navigation__link mdl-color-text--accent" href="/">Home</a>
+            <a class="mdl-navigation__link" href="/post/">Articles</a>
+            <a class="mdl-navigation__link" href="/project/">Projects</a>
+            <a class="mdl-navigation__link" href="/about/">About</a>
+            </nav>
+        </div>
 
-  <div class="intro">
-    <div class="logo-container">
-      <a href="/">
-        <img src='https://ggfhp.github.io/images/pika.jpg' alt="Profile HOME" class="rounded-logo">
-      </a>
-    </div>
-    <h2>傅皮蛋的窝</h2>
-    <h3>这是一个小天才</h3>
-    <div class="menu">
-      
+        <main class="mdl-layout__content">
 
-        <p>
-            <a href="/about/">
-                About
-            </a>
-        </p>
+            <div class="hmdl-frontpage mdl-grid">                
+                <div class="hmdl-profile-card mdl-card profile-card mdl-cell mdl-cell--8-col mdl-cell--4-col-desktop">
+                    <div class="mdl-card__media mdl-color--white mdl-color-text--grey-600" style="background-image: url('/images/avatar-192x210.png');">
+                    </div>                    
+                    <div id="fab_ctn" class="mdl-button--fab_flinger-container">
 
-        <p>
-            <a href="/portfolio/">
-                Portfolio
-            </a>
-        </p>
+                        <button id="fab_btn" class="mdl-button mdl-js-ripple-effect mdl-js-button mdl-button--fab mdl-color--accent">
+                            <i class="icon ion-android-add mdl-color-text--white" role="presentation"></i>
+                            <span class="visuallyhidden">add</span>
+                        </button>
 
-        <p>
-            <a href="/post/">
-                Post
-            </a>
-        </p>
+                        <div class="mdl-button--fab_flinger-options">
+                            <a href=/about>
+                                <button id="about" class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-color--primary" title="About Me">
+                                    <i class="icon ion-person mdl-color-text--white" role="presentation"></i>
+                                </button>
+                            </a>
 
-      
-        
-        <p>
-            <a href="mailto:fhp4@163.com" target="_blank" rel="external">
+                            <a href=/project>
+                                <button id="projects" class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-color--primary" title="My Projects">
+                                    <i class="icon ion-code mdl-color-text--white" role="presentation"></i>
+                                </button>
+                            </a>
+
+                            <a href="mailto:Firstname@example.com?subject=Hi">
+                                <button id="email" class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-color--primary" title="Email Me">
+                                    <i class="icon ion-email mdl-color-text--white" role="presentation"></i>
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="hmdl-page-meta mdl-card__supporting-text meta--fill mdl-color-text--grey-600 ">
+                        <div>
+                            <strong>Firstname Lastname</strong>
+                        </div>
+                    </div>
+                </div>
                 
-            </a>
-        </p>
-      
+                <div class="mdl-card mdl-cell mdl-cell--8-col">
+                    <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:#263238;">
+                        <h3><a href="/post/coolpost/" style="color:#ffffff;">Cool Post</a></h3>
+                    </div>
+                    <div class="mdl-card__supporting-text mdl-color-text--grey-600">
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.</p>
+                    </div>
+                    <div class="hmdl-page-meta mdl-card__supporting-text mdl-color-text--grey-600">
+                        <div class="minilogo" style="background-image: url('/images/avatar-64x64.png');"></div>
+                        <div>
+                            <strong><a href="http://example.com/">Firstname Lastname</a></strong>
+                            <span>Oct 4, 2015</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mdl-card mdl-cell mdl-cell--12-col">
+                    <div class="mdl-card__media mdl-color-text--grey-50" style=" ">
+                        <h3><a href="/post/" >Posts</a></h3>
+                    </div>
+                    <div class="mdl-card__supporting-text mdl-color-text--grey-600">
+                        
+                    </div>
+                    <div class="hmdl-page-meta mdl-card__supporting-text mdl-color-text--grey-600">
+                        <div>
+                            <strong><a href=""></a></strong>
+                            <span>Oct 4, 2015</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mdl-card mdl-cell mdl-cell--12-col">
+                    <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:#268368;">
+                        <h3><a href="/post/another/" >Stellar Post</a></h3>
+                    </div>
+                    <div class="mdl-card__supporting-text mdl-color-text--grey-600">
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.</p>
+                    </div>
+                    <div class="hmdl-page-meta mdl-card__supporting-text mdl-color-text--grey-600">
+                        <div class="minilogo" style="background-image: url('/images/avatar-64x64.png');"></div>
+                        <div>
+                            <strong><a href="http://example.com/">Firstname Lastname</a></strong>
+                            <span>Aug 26, 2015</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mdl-card mdl-cell mdl-cell--12-col">
+                    <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:#789456;">
+                        <h3><a href="/post/third/" >Third Post</a></h3>
+                    </div>
+                    <div class="mdl-card__supporting-text mdl-color-text--grey-600">
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    </div>
+                    <div class="hmdl-page-meta mdl-card__supporting-text mdl-color-text--grey-600">
+                        <div class="minilogo" style="background-image: url('/images/avatar-64x64.png');"></div>
+                        <div>
+                            <strong><a href="http://example.com/">Firstname Lastname</a></strong>
+                            <span>Aug 20, 2015</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mdl-card mdl-cell mdl-cell--12-col">
+                    <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:#954351;">
+                        <h3><a href="/post/another2/" >Amazing Post</a></h3>
+                    </div>
+                    <div class="mdl-card__supporting-text mdl-color-text--grey-600">
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.</p>
+                    </div>
+                    <div class="hmdl-page-meta mdl-card__supporting-text mdl-color-text--grey-600">
+                        <div class="minilogo" style="background-image: url('/images/avatar-64x64.png');"></div>
+                        <div>
+                            <strong><a href="http://example.com/">Firstname Lastname</a></strong>
+                            <span>Aug 19, 2015</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mdl-card mdl-cell mdl-cell--12-col">
+                    <div class="mdl-card__media mdl-color-text--grey-50" style=" background-color:#838238;">
+                        <h3><a href="/post/andyetanother/" >Awesome Post</a></h3>
+                    </div>
+                    <div class="mdl-card__supporting-text mdl-color-text--grey-600">
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type
+specimen book.</p>
+                    </div>
+                    <div class="hmdl-page-meta mdl-card__supporting-text mdl-color-text--grey-600">
+                        <div class="minilogo" style="background-image: url('/images/avatar-64x64.png');"></div>
+                        <div>
+                            <strong><a href="http://example.com/">Firstname Lastname</a></strong>
+                            <span>Aug 19, 2015</span>
+                        </div>
+                    </div>
+                </div>
+
+                    
+                <nav class="mdl-cell mdl-cell--12-col">
+                    <div class="section-spacer"></div>
+                    <a href=/post/ title="show more">
+                        More
+                        <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon">
+                            <i class="material-icons icon ion-android-arrow-forward" role="presentation"></i>
+                        </button>
+                    </a>
+                </nav>
+
+            </div>        
+        </main>
+        <footer class="mdl-mini-footer">
+            <div class="mdl-mini-footer--left-section">                
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="mailto:Firstname@example.com?subject=Hi">
+                    <i class="material-icons_lg icon ion-email"></i>
+                    <span class="visuallyhidden">Email</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://github.com/firstname_lastname/">
+                    <i class="material-icons_lg icon ion-social-github"></i>
+                    <span class="visuallyhidden">Github</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://twitter.com/firstname_lastname">
+                    <i class="material-icons_lg icon ion-social-twitter "></i>
+                    <span class="visuallyhidden">Twitter</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://linkedin.com/in/firstname_lastname/">
+                    <i class="material-icons_lg icon ion-social-linkedin "></i>                        
+                    <span class="visuallyhidden">LinkedIn</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://facebook.com/firstname_lastname/">
+                    <i class="material-icons_lg icon ion-social-facebook "></i>                        
+                    <span class="visuallyhidden">Facebook</span>
+                </a>
+
+            </div>
+            <div class="mdl-mini-footer--right-section">
+                <span>© 2015 Firstname Lastname</span>
+            </div>
+        </footer>
+        <div class="mdl-layout__obfuscator"></div>
     </div>
-
-  </div>
-
-  <div class="socials">
-      
-  
-    <a href="https://github.com/ggfhp" class="social-link" target="_blank" rel="noopener" ><div class="icon">
-  <svg width="35px" height="35px" viewBox="0 0 115 115" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
-  
-  <path d="M102.679 0H12.32C5.52 0 0 5.519 0 12.321v90.358C0 109.48 5.519 115 12.321 115h90.358c6.802 0 12.321-5.519 12.321-12.321V12.32C115 5.52 109.481 0 102.679 0zM71.182 98.494c-2.156.385-2.952-.95-2.952-2.053 0-1.386.051-8.471.051-14.195 0-4.005-1.335-6.546-2.9-7.881C74.878 73.313 84.89 72.003 84.89 55.6c0-4.671-1.669-7.007-4.39-10.01.436-1.105 1.9-5.648-.436-11.552-3.568-1.104-11.731 4.595-11.731 4.595-3.389-.95-7.06-1.438-10.679-1.438-3.62 0-7.29.488-10.679 1.438 0 0-8.163-5.699-11.73-4.595-2.337 5.878-.899 10.422-.437 11.551-2.72 3.004-4.004 5.34-4.004 10.011 0 16.326 9.574 17.712 19.072 18.765-1.232 1.104-2.336 3.003-2.72 5.724-2.44 1.104-8.677 3.004-12.4-3.568-2.335-4.056-6.545-4.39-6.545-4.39-4.159-.05-.282 2.619-.282 2.619 2.772 1.283 4.723 6.212 4.723 6.212 2.49 7.624 14.4 5.057 14.4 5.057 0 3.568.052 9.37.052 10.422 0 1.104-.77 2.438-2.952 2.053C27.21 92.821 15.35 76.701 15.35 57.86c0-23.564 18.02-41.456 41.585-41.456s42.663 17.892 42.663 41.456c.026 18.842-11.474 34.988-28.416 40.635zM46 82.81c-.488.103-.95-.102-1.001-.436-.051-.385.282-.719.77-.822.488-.05.95.154 1.001.488.077.334-.257.668-.77.77zm-2.439-.23c0 .333-.385.615-.898.615-.565.052-.95-.23-.95-.616 0-.333.385-.616.899-.616.487-.051.95.231.95.616zm-3.516-.283c-.103.334-.616.488-1.053.334-.488-.103-.821-.488-.719-.822.103-.334.617-.488 1.053-.385.513.154.847.54.719.873zm-3.158-1.386c-.23.282-.718.23-1.104-.154-.385-.334-.487-.822-.23-1.053.23-.282.718-.23 1.103.154.334.334.462.847.231 1.053zm-2.336-2.336c-.23.154-.667 0-.95-.385-.282-.385-.282-.822 0-1.001.283-.231.72-.052.95.333.283.385.283.847 0 1.053zm-1.668-2.49c-.231.23-.616.103-.899-.154-.282-.334-.333-.719-.102-.899.23-.23.616-.102.898.154.282.334.334.72.103.899zm-1.72-1.9c-.103.231-.436.283-.719.103-.334-.154-.488-.436-.385-.667.103-.154.385-.231.719-.103.334.18.488.462.385.667z"/>
-  
-  </svg>
-</div>
-</a>
-  
-
-  </div>
-
-</header>
-
-  <div class="content-wrapper">
-    
-      <div class="breadcrumb">
-  
-
-<span  class="active">
-  <a href="https://ggfhp.github.io/">HOME</a>
-  
-</span>
-
-</div>
-
-    
-    <main id="content" class="">
-
-<h1>HOME</h1>
-<p>Hey,</p>
-
-<p>I&rsquo;m Edna West, a Web Developer and Entrepreneur.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.</p>
-
-<p><a href="/about" title="Get to know me better">Get to know me better</a></p>
+    <script src="https://code.getmdl.io/1.1.3/material.min.js"></script>
+    <script src=/js/cardmedia.js></script>
+    <script src=/js/fabbutton.js></script>
 
 
-<h2>My Latest Job</h2>
-  
-  
-    
-      <div class="portfolio-list">
-  <a href="https://ggfhp.github.io/portfolio/sample-project/">
-    <div class="portfolio-container">
-      <img title="Sample project" alt="Sample project" src="/portfolio/sample-project/sample.jpg" />
-      <div class="img-overlay">
-      </div>
-      <div class="portfolio-details">
-        <h2><span>Sample project</span></h2>
-        <p class="small">design, architecture</p>
-        <p class="small">2019</p>
-      </div>
-    </div>
-  </a>
-</div>
-    
-  
-
-    </main>
-  </div>
-  <footer>
-    <div class="footer-wrapper">
-      <p>Made with ❤️ &mdash; Powered by <a href="https://gohugo.io/" target="_blank" rel="external">Hugo</a> and the <a href="https://github.com/bjacquemet/personal-web" target='_blank' rel="external">Personal Web</a> theme.</p>
-      <p>© 傅皮蛋</p>
-    </div>
-  </footer>
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:500,600|Raleway:400,400i,600" rel="stylesheet">
-  
 </body>
 </html>
+
