@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://your.base.url/project/collaborativeproject/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/categories/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/project/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/tags/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/tags/meta/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/categories/project/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/tags/project/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/project/snippet/</loc>
+    <lastmod>2015-10-05T02:24:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/coolpost/</loc>
+    <lastmod>2015-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/</loc>
+    <lastmod>2015-10-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/categories/post/</loc>
+    <lastmod>2015-10-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/tags/test/</loc>
+    <lastmod>2015-10-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/project/coolcode/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/project/coolwebsite/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/project/myproject/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/project/hugotheme/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/another/</loc>
+    <lastmod>2015-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/third/</loc>
+    <lastmod>2015-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/another2/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/andyetanother/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/another1/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/second/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/yetanother/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/omgsomanymore/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/omgsomany/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/another3/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/about/</loc>
+    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/post/first/</loc>
+    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/categories/about/</loc>
+    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/categories/bio/</loc>
+    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/tags/bio/</loc>
+    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/categories/meta/</loc>
+    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
