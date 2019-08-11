@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My HugoMDL Site</title>
-    <link>http://your.base.url/categories/</link>
+    <link>https://ggfhp.github.io/categories/</link>
     <description>Recent content in Categories on My HugoMDL Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Oct 2015 02:27:08 +0000</lastBuildDate>
     
-	<atom:link href="http://your.base.url/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ggfhp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>project</title>
-      <link>http://your.base.url/categories/project/</link>
+      <link>https://ggfhp.github.io/categories/project/</link>
       <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
       
-      <guid>http://your.base.url/categories/project/</guid>
+      <guid>https://ggfhp.github.io/categories/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post</title>
-      <link>http://your.base.url/categories/post/</link>
+      <link>https://ggfhp.github.io/categories/post/</link>
       <pubDate>Sun, 04 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://your.base.url/categories/post/</guid>
+      <guid>https://ggfhp.github.io/categories/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://your.base.url/categories/about/</link>
+      <link>https://ggfhp.github.io/categories/about/</link>
       <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://your.base.url/categories/about/</guid>
+      <guid>https://ggfhp.github.io/categories/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bio</title>
-      <link>http://your.base.url/categories/bio/</link>
+      <link>https://ggfhp.github.io/categories/bio/</link>
       <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://your.base.url/categories/bio/</guid>
+      <guid>https://ggfhp.github.io/categories/bio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meta</title>
-      <link>http://your.base.url/categories/meta/</link>
+      <link>https://ggfhp.github.io/categories/meta/</link>
       <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://your.base.url/categories/meta/</guid>
+      <guid>https://ggfhp.github.io/categories/meta/</guid>
       <description></description>
     </item>
     

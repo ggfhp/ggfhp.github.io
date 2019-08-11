@@ -3,180 +3,180 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://your.base.url/project/collaborativeproject/</loc>
+    <loc>https://ggfhp.github.io/project/collaborativeproject/</loc>
     <lastmod>2015-10-05T02:27:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/categories/</loc>
-    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://your.base.url/</loc>
+    <loc>https://ggfhp.github.io/categories/</loc>
     <lastmod>2015-10-05T02:27:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://your.base.url/project/</loc>
+    <loc>https://ggfhp.github.io/</loc>
     <lastmod>2015-10-05T02:27:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://your.base.url/tags/</loc>
+    <loc>https://ggfhp.github.io/project/</loc>
     <lastmod>2015-10-05T02:27:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://your.base.url/tags/meta/</loc>
+    <loc>https://ggfhp.github.io/tags/</loc>
     <lastmod>2015-10-05T02:27:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://your.base.url/categories/project/</loc>
+    <loc>https://ggfhp.github.io/tags/meta/</loc>
     <lastmod>2015-10-05T02:27:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://your.base.url/tags/project/</loc>
+    <loc>https://ggfhp.github.io/categories/project/</loc>
     <lastmod>2015-10-05T02:27:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://your.base.url/project/snippet/</loc>
+    <loc>https://ggfhp.github.io/tags/project/</loc>
+    <lastmod>2015-10-05T02:27:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ggfhp.github.io/project/snippet/</loc>
     <lastmod>2015-10-05T02:24:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/coolpost/</loc>
+    <loc>https://ggfhp.github.io/post/coolpost/</loc>
     <lastmod>2015-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/</loc>
-    <lastmod>2015-10-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://your.base.url/categories/post/</loc>
+    <loc>https://ggfhp.github.io/post/</loc>
     <lastmod>2015-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://your.base.url/tags/test/</loc>
+    <loc>https://ggfhp.github.io/categories/post/</loc>
     <lastmod>2015-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://your.base.url/project/coolcode/</loc>
+    <loc>https://ggfhp.github.io/tags/test/</loc>
+    <lastmod>2015-10-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ggfhp.github.io/project/coolcode/</loc>
     <lastmod>2015-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/project/coolwebsite/</loc>
+    <loc>https://ggfhp.github.io/project/coolwebsite/</loc>
     <lastmod>2015-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/project/myproject/</loc>
+    <loc>https://ggfhp.github.io/project/myproject/</loc>
     <lastmod>2015-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/project/hugotheme/</loc>
+    <loc>https://ggfhp.github.io/project/hugotheme/</loc>
     <lastmod>2015-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/another/</loc>
+    <loc>https://ggfhp.github.io/post/another/</loc>
     <lastmod>2015-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/third/</loc>
+    <loc>https://ggfhp.github.io/post/third/</loc>
     <lastmod>2015-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/another2/</loc>
+    <loc>https://ggfhp.github.io/post/another2/</loc>
     <lastmod>2015-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/andyetanother/</loc>
+    <loc>https://ggfhp.github.io/post/andyetanother/</loc>
     <lastmod>2015-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/another1/</loc>
+    <loc>https://ggfhp.github.io/post/another1/</loc>
     <lastmod>2015-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/second/</loc>
+    <loc>https://ggfhp.github.io/post/second/</loc>
     <lastmod>2015-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/yetanother/</loc>
+    <loc>https://ggfhp.github.io/post/yetanother/</loc>
     <lastmod>2015-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/omgsomanymore/</loc>
+    <loc>https://ggfhp.github.io/post/omgsomanymore/</loc>
     <lastmod>2015-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/omgsomany/</loc>
+    <loc>https://ggfhp.github.io/post/omgsomany/</loc>
     <lastmod>2015-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/another3/</loc>
+    <loc>https://ggfhp.github.io/post/another3/</loc>
     <lastmod>2015-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/about/</loc>
+    <loc>https://ggfhp.github.io/about/</loc>
     <lastmod>2015-08-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/post/first/</loc>
+    <loc>https://ggfhp.github.io/post/first/</loc>
     <lastmod>2015-08-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://your.base.url/categories/about/</loc>
-    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://your.base.url/categories/bio/</loc>
+    <loc>https://ggfhp.github.io/categories/about/</loc>
     <lastmod>2015-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://your.base.url/tags/bio/</loc>
+    <loc>https://ggfhp.github.io/categories/bio/</loc>
     <lastmod>2015-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://your.base.url/categories/meta/</loc>
+    <loc>https://ggfhp.github.io/tags/bio/</loc>
+    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ggfhp.github.io/categories/meta/</loc>
     <lastmod>2015-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
