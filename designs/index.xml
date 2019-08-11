@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designs on 傅皮蛋的窝</title>
+    <link>https://ggfhp.github.io/designs/</link>
+    <description>Recent content in Designs on 傅皮蛋的窝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 傅皮蛋</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://ggfhp.github.io/designs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photoshop</title>
+      <link>https://ggfhp.github.io/designs/photoshop/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://ggfhp.github.io/designs/photoshop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
